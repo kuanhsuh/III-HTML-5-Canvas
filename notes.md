@@ -4,3 +4,5 @@
 2. Drawing Elements
 3. Animating Elements
 4. Interacting with Elements
+
+2) 6 things: Draw Rectangle, Lines, Circle/arc, bezier curves, images, text
